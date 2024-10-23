@@ -1,2 +1,3 @@
 # BeardedSpice
-Not much
+
+Testbed for personal website.
